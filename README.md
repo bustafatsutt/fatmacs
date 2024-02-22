@@ -1,0 +1,2 @@
+# fatmacs
+FoundryVTT Module
